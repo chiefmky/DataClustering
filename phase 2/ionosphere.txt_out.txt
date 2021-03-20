@@ -1,0 +1,376 @@
+ionosphere.txt 2 100 0.001 5
+
+No Normalization with Random Selection.
+
+Run 1
+-----
+Iteration 1: 2897.26
+Iteration 2: 2557.53
+Iteration 3: 2441.29
+Iteration 4: 2420.51
+Iteration 5: 2419.57
+
+Run 2
+-----
+Iteration 1: 3191.08
+Iteration 2: 3059.81
+Iteration 3: 2695.37
+Iteration 4: 2487.19
+Iteration 5: 2429.74
+Iteration 6: 2420.55
+Iteration 7: 2419.36
+
+Run 3
+-----
+Iteration 1: 2447.95
+Iteration 2: 2419.6
+Iteration 3: 2419.36
+
+Run 4
+-----
+Iteration 1: 3157.1
+Iteration 2: 2721.61
+Iteration 3: 2515.21
+Iteration 4: 2443.7
+Iteration 5: 2423.52
+Iteration 6: 2419.49
+Iteration 7: 2419.36
+
+Run 5
+-----
+Iteration 1: 2534.02
+Iteration 2: 2423.19
+Iteration 3: 2419.49
+Iteration 4: 2419.36
+
+Min Max Normalization with Random Selection.
+
+Run 1
+-----
+Iteration 1: 724.474
+Iteration 2: 659.2
+Iteration 3: 634.172
+Iteration 4: 629.577
+Iteration 5: 628.903
+Iteration 6: 628.903
+
+Run 2
+-----
+Iteration 1: 749.381
+Iteration 2: 708.25
+Iteration 3: 687.523
+Iteration 4: 653.336
+Iteration 5: 635.971
+Iteration 6: 630.343
+Iteration 7: 628.903
+Iteration 8: 628.903
+
+Run 3
+-----
+Iteration 1: 813.428
+Iteration 2: 808.438
+Iteration 3: 767.337
+Iteration 4: 660.547
+Iteration 5: 631.494
+Iteration 6: 628.995
+Iteration 7: 628.896
+
+Run 4
+-----
+Iteration 1: 714.185
+Iteration 2: 636.171
+Iteration 3: 630.694
+Iteration 4: 628.903
+Iteration 5: 628.903
+
+Run 5
+-----
+Iteration 1: 778.611
+Iteration 2: 656.029
+Iteration 3: 631.517
+Iteration 4: 629.13
+Iteration 5: 628.896
+
+z-score Normalization with Random Selection.
+
+Run 1
+-----
+Iteration 1: 10909.7
+Iteration 2: 9486.4
+Iteration 3: 9167.24
+Iteration 4: 9096.69
+Iteration 5: 9086.73
+Iteration 6: 9086.33
+
+Run 2
+-----
+Iteration 1: 11483.2
+Iteration 2: 11483.2
+
+Run 3
+-----
+Iteration 1: 10123.5
+Iteration 2: 9208.53
+Iteration 3: 9101.85
+Iteration 4: 9093.68
+
+Run 4
+-----
+Iteration 1: 10176.8
+Iteration 2: 9337.44
+Iteration 3: 9135.92
+Iteration 4: 9091.17
+Iteration 5: 9086.73
+
+Run 5
+-----
+Iteration 1: 10399
+Iteration 2: 9994.61
+Iteration 3: 9743.61
+Iteration 4: 9363.21
+Iteration 5: 9168.25
+Iteration 6: 9105.78
+Iteration 7: 9093.68
+Iteration 8: 9087.19
+
+No Normalization with Random Partition.
+
+Run 1
+-----
+Iteration 1: 2520.18
+Iteration 2: 2427.68
+Iteration 3: 2419.49
+Iteration 4: 2419.36
+
+Run 2
+-----
+Iteration 1: 2734.11
+Iteration 2: 2451.75
+Iteration 3: 2421.42
+Iteration 4: 2419.36
+
+Run 3
+-----
+Iteration 1: 2480.85
+Iteration 2: 2421.26
+Iteration 3: 2419.36
+
+Run 4
+-----
+Iteration 1: 3011.23
+Iteration 2: 2764.36
+Iteration 3: 2457.94
+Iteration 4: 2421.26
+Iteration 5: 2419.36
+
+Run 5
+-----
+Iteration 1: 2521.97
+Iteration 2: 2423.19
+Iteration 3: 2419.49
+Iteration 4: 2419.36
+
+Min Max Normalization with Random Partition.
+
+Run 1
+-----
+Iteration 1: 672.389
+Iteration 2: 632.899
+Iteration 3: 628.932
+Iteration 4: 628.896
+
+Run 2
+-----
+Iteration 1: 655.006
+Iteration 2: 628.956
+Iteration 3: 628.896
+
+Run 3
+-----
+Iteration 1: 643.225
+Iteration 2: 629.143
+Iteration 3: 628.896
+
+Run 4
+-----
+Iteration 1: 659.122
+Iteration 2: 631.12
+Iteration 3: 628.903
+Iteration 4: 628.903
+
+Run 5
+-----
+Iteration 1: 673.909
+Iteration 2: 629.282
+Iteration 3: 628.896
+
+z-score Normalization with Random Partition.
+
+Run 1
+-----
+Iteration 1: 11192.5
+Iteration 2: 10799.9
+Iteration 3: 9764.45
+Iteration 4: 9100.69
+Iteration 5: 9086.73
+Iteration 6: 9086.33
+
+Run 2
+-----
+Iteration 1: 9558.36
+Iteration 2: 9155.9
+Iteration 3: 9097.92
+Iteration 4: 9085.98
+Iteration 5: 9085.98
+
+Run 3
+-----
+Iteration 1: 9242.52
+Iteration 2: 9097.03
+Iteration 3: 9087.19
+Iteration 4: 9085.98
+
+Run 4
+-----
+Iteration 1: 9268.07
+Iteration 2: 9094.26
+Iteration 3: 9086.02
+
+Run 5
+-----
+Iteration 1: 9852.13
+Iteration 2: 9111.4
+Iteration 3: 9086.02
+Iteration 4: 9086.02
+
+No Normalization with Maximin.
+
+Run 1
+-----
+Iteration 1: 2666.49
+Iteration 2: 2436.67
+Iteration 3: 2419.41
+Iteration 4: 2419.41
+
+Run 2
+-----
+Iteration 1: 2491.06
+Iteration 2: 2425.33
+Iteration 3: 2420.02
+Iteration 4: 2419.36
+
+Run 3
+-----
+Iteration 1: 2914.67
+Iteration 2: 2510.13
+Iteration 3: 2435.88
+Iteration 4: 2421.41
+Iteration 5: 2419.49
+
+Run 4
+-----
+Iteration 1: 3105.99
+Iteration 2: 3090.29
+Iteration 3: 3067.11
+Iteration 4: 2952.09
+Iteration 5: 2585.86
+Iteration 6: 2435.09
+Iteration 7: 2419.49
+Iteration 8: 2419.36
+
+Run 5
+-----
+Iteration 1: 3088.96
+Iteration 2: 2946.82
+Iteration 3: 2574.65
+Iteration 4: 2436.22
+Iteration 5: 2420.43
+Iteration 6: 2419.36
+
+Min Max Normalization with Maximin.
+
+Run 1
+-----
+Iteration 1: 734.649
+Iteration 2: 690.029
+Iteration 3: 654.918
+Iteration 4: 636.539
+Iteration 5: 630.343
+Iteration 6: 628.903
+Iteration 7: 628.903
+
+Run 2
+-----
+Iteration 1: 779.508
+Iteration 2: 672.151
+Iteration 3: 635.056
+Iteration 4: 629.143
+Iteration 5: 628.896
+
+Run 3
+-----
+Iteration 1: 799.504
+Iteration 2: 781.803
+Iteration 3: 693.224
+Iteration 4: 641.87
+Iteration 5: 630.412
+Iteration 6: 628.995
+Iteration 7: 628.896
+
+Run 4
+-----
+Iteration 1: 657.546
+Iteration 2: 631.979
+Iteration 3: 629.147
+Iteration 4: 628.903
+
+Run 5
+-----
+Iteration 1: 707.985
+Iteration 2: 644.577
+Iteration 3: 630.329
+Iteration 4: 628.995
+Iteration 5: 628.896
+
+z-score Normalization with Maximin.
+
+Run 1
+-----
+Iteration 1: 10721.8
+Iteration 2: 9568.7
+Iteration 3: 9150.36
+Iteration 4: 9090.57
+Iteration 5: 9085.98
+
+Run 2
+-----
+Iteration 1: 9488.02
+Iteration 2: 9169.17
+Iteration 3: 9098.94
+Iteration 4: 9093.68
+
+Run 3
+-----
+Iteration 1: 9607.76
+Iteration 2: 9136.49
+Iteration 3: 9088.52
+Iteration 4: 9086.33
+
+Run 4
+-----
+Iteration 1: 10959.2
+Iteration 2: 9962.71
+Iteration 3: 9189.87
+Iteration 4: 9108.06
+Iteration 5: 9092.07
+Iteration 6: 9085.98
+
+Run 5
+-----
+Iteration 1: 11348.4
+Iteration 2: 10808.9
+Iteration 3: 9435.65
+Iteration 4: 9165.71
+Iteration 5: 9094.79
+Iteration 6: 9086.73
+

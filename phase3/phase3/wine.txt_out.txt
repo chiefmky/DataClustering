@@ -1,0 +1,35 @@
+filename: wine.txt, num of iter:100, Threshold:0.001, num of run: 100
+
+Min Max Normalization with Maximin.
+
+Silhouette Width index
+K=2 0.434877
+K=3 0.36261
+K=4 0.376475
+K=5 0.37609
+K=6 0.409587
+K=7 0.402392
+K=8 0.386951
+K=9 0.449217
+
+
+Calinski–Harabasz index
+K=2 2.5214
+K=3 6.898
+K=4 4.8184
+K=5 3.5136
+K=6 3.7895
+K=7 3.59739
+K=8 3.13916
+K=9 3.04901
+
+
+the Davies–Bouldin index
+K=2 7.83701
+K=3 36.5412
+K=4 32.1416
+K=5 40.8517
+K=6 53.448
+K=7 58.1539
+K=8 80.3982
+K=9 109.961

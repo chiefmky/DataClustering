@@ -1,0 +1,35 @@
+filename: iris_bezdek.txt, num of iter:100, Threshold:0.001, num of run: 100
+
+Min Max Normalization with Maximin.
+
+Silhouette Width index
+K=2 0.344634
+K=3 0.511815
+K=4 0.593253
+K=5 0.630043
+K=6 0.679326
+K=7 0.702479
+K=8 0.641548
+K=9 0.287478
+
+
+Calinski–Harabasz index
+K=2 40.2869
+K=3 122.059
+K=4 111.913
+K=5 89.6559
+K=6 74.461
+K=7 61.6039
+K=8 55.3451
+K=9 48.2104
+
+
+the Davies–Bouldin index
+K=2 4.63761
+K=3 7.08581
+K=4 12.7429
+K=5 16.894
+K=6 23.8185
+K=7 33.0629
+K=8 46.0579
+K=9 44.058

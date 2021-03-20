@@ -1,0 +1,38 @@
+filename: glass.txt, num of iter:100, Threshold:0.001, num of run: 100
+
+Min Max Normalization with Maximin.
+
+Silhouette Width index
+K=2 0.662124
+K=3 0.661783
+K=4 0.653558
+K=5 0.670876
+K=6 0.615937
+K=7 0.313904
+K=8 0.342086
+K=9 0.365489
+K=10 0.371373
+
+
+Calinski–Harabasz index
+K=2 0.784568
+K=3 55.8318
+K=4 31.3135
+K=5 24.6324
+K=6 18.4075
+K=7 15.8839
+K=8 17.3622
+K=9 19.5045
+K=10 19.862
+
+
+the Davies–Bouldin index
+K=2 19.3342
+K=3 35.4475
+K=4 115.446
+K=5 172.47
+K=6 219.229
+K=7 413.439
+K=8 402.228
+K=9 389.472
+K=10 377.777

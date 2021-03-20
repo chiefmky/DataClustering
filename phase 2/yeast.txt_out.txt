@@ -1,0 +1,819 @@
+yeast.txt 10 100 0.001 5
+
+No Normalization with Random Selection.
+
+Run 1
+-----
+Iteration 1: 61.8532
+Iteration 2: 56.355
+Iteration 3: 54.778
+Iteration 4: 54.2015
+Iteration 5: 54.027
+Iteration 6: 53.9671
+Iteration 7: 53.9258
+
+Run 2
+-----
+Iteration 1: 65.0232
+Iteration 2: 58.4031
+Iteration 3: 55.4105
+Iteration 4: 54.3005
+Iteration 5: 53.8632
+Iteration 6: 53.6079
+Iteration 7: 53.3622
+Iteration 8: 53.0392
+Iteration 9: 52.7279
+Iteration 10: 52.5162
+Iteration 11: 52.212
+Iteration 12: 50.7295
+Iteration 13: 46.7103
+Iteration 14: 46.5679
+Iteration 15: 46.4831
+Iteration 16: 46.458
+
+Run 3
+-----
+Iteration 1: 61.664
+Iteration 2: 57.3765
+Iteration 3: 54.9688
+Iteration 4: 53.7353
+Iteration 5: 53.2549
+Iteration 6: 53.0719
+Iteration 7: 52.9973
+Iteration 8: 52.9072
+Iteration 9: 52.7756
+Iteration 10: 52.6613
+Iteration 11: 52.5464
+Iteration 12: 52.4321
+Iteration 13: 52.2859
+Iteration 14: 52.1722
+Iteration 15: 52.0938
+Iteration 16: 52.0613
+
+Run 4
+-----
+Iteration 1: 72.4411
+Iteration 2: 59.2443
+Iteration 3: 55.2927
+Iteration 4: 54.4931
+Iteration 5: 53.8633
+Iteration 6: 50.0238
+Iteration 7: 47.8208
+Iteration 8: 47.6606
+Iteration 9: 47.5141
+Iteration 10: 47.3652
+Iteration 11: 47.1864
+Iteration 12: 47.0033
+Iteration 13: 46.8761
+Iteration 14: 46.7548
+Iteration 15: 46.6676
+Iteration 16: 46.6256
+
+Run 5
+-----
+Iteration 1: 61.7505
+Iteration 2: 57.0842
+Iteration 3: 55.2649
+Iteration 4: 54.5679
+Iteration 5: 54.2438
+Iteration 6: 54.0358
+Iteration 7: 53.8879
+Iteration 8: 53.7619
+Iteration 9: 53.6217
+Iteration 10: 53.4835
+Iteration 11: 53.4022
+Iteration 12: 53.3463
+Iteration 13: 53.2839
+Iteration 14: 53.2359
+
+Min Max Normalization with Random Selection.
+
+Run 1
+-----
+Iteration 1: 93.3464
+Iteration 2: 83.0561
+Iteration 3: 80.6912
+Iteration 4: 80.0529
+Iteration 5: 79.6447
+Iteration 6: 79.3961
+Iteration 7: 79.2242
+Iteration 8: 79.1176
+Iteration 9: 79.0639
+
+Run 2
+-----
+Iteration 1: 90.2576
+Iteration 2: 82.8769
+Iteration 3: 80.8243
+Iteration 4: 79.8882
+Iteration 5: 79.3842
+Iteration 6: 78.9351
+Iteration 7: 78.6492
+Iteration 8: 78.5083
+Iteration 9: 78.4247
+Iteration 10: 78.3877
+
+Run 3
+-----
+Iteration 1: 97.8293
+Iteration 2: 89.9936
+Iteration 3: 85.612
+Iteration 4: 83.1732
+Iteration 5: 81.742
+Iteration 6: 80.9115
+Iteration 7: 80.3967
+Iteration 8: 79.5633
+Iteration 9: 76.6185
+Iteration 10: 69.1129
+Iteration 11: 69.0213
+Iteration 12: 68.9553
+
+Run 4
+-----
+Iteration 1: 85.51
+Iteration 2: 81.6121
+Iteration 3: 80.735
+Iteration 4: 80.2536
+Iteration 5: 79.8285
+Iteration 6: 79.2905
+Iteration 7: 78.7395
+Iteration 8: 78.457
+Iteration 9: 78.2055
+Iteration 10: 77.6875
+Iteration 11: 76.6494
+Iteration 12: 67.5829
+Iteration 13: 67.3669
+Iteration 14: 66.3974
+Iteration 15: 59.0657
+Iteration 16: 59.0518
+
+Run 5
+-----
+Iteration 1: 86.4098
+Iteration 2: 81.2394
+Iteration 3: 79.5834
+Iteration 4: 79.1109
+Iteration 5: 78.9186
+Iteration 6: 78.8067
+Iteration 7: 78.7321
+
+z-score Normalization with Random Selection.
+
+Run 1
+-----
+Iteration 1: 5231.58
+Iteration 2: 4415.8
+Iteration 3: 4210.38
+Iteration 4: 4142.39
+Iteration 5: 4114.71
+Iteration 6: 4099.2
+Iteration 7: 4093.02
+Iteration 8: 4088.82
+Iteration 9: 4085.52
+
+Run 2
+-----
+Iteration 1: 7681.99
+Iteration 2: 7036.16
+Iteration 3: 6870.21
+Iteration 4: 6797.4
+Iteration 5: 6740.98
+Iteration 6: 6699.85
+Iteration 7: 6653.84
+Iteration 8: 6599.41
+Iteration 9: 6562.09
+Iteration 10: 6530.94
+Iteration 11: 6477.89
+Iteration 12: 6133.74
+Iteration 13: 5349.09
+Iteration 14: 5344.03
+
+Run 3
+-----
+Iteration 1: 7319.22
+Iteration 2: 6900.57
+Iteration 3: 6724.79
+Iteration 4: 6629.53
+Iteration 5: 6214.81
+Iteration 6: 5435.69
+Iteration 7: 5425.65
+Iteration 8: 5422.02
+
+Run 4
+-----
+Iteration 1: 7426.71
+Iteration 2: 6869.11
+Iteration 3: 6594.53
+Iteration 4: 6283.81
+Iteration 5: 5180.1
+Iteration 6: 4102.76
+Iteration 7: 4093.17
+Iteration 8: 4087.39
+Iteration 9: 4084.53
+
+Run 5
+-----
+Iteration 1: 7751.83
+Iteration 2: 7110.5
+Iteration 3: 6690.52
+Iteration 4: 5408.7
+Iteration 5: 5360.41
+Iteration 6: 5344.31
+Iteration 7: 5335.84
+Iteration 8: 5331.01
+
+No Normalization with Random Partition.
+
+Run 1
+-----
+Iteration 1: 74.0658
+Iteration 2: 62.4435
+Iteration 3: 57.9405
+Iteration 4: 55.1532
+Iteration 5: 53.8322
+Iteration 6: 53.3581
+Iteration 7: 53.087
+Iteration 8: 52.9079
+Iteration 9: 52.716
+Iteration 10: 52.4744
+Iteration 11: 52.3593
+Iteration 12: 52.2696
+Iteration 13: 52.2112
+Iteration 14: 52.1391
+Iteration 15: 52.029
+Iteration 16: 51.9441
+Iteration 17: 51.9029
+
+Run 2
+-----
+Iteration 1: 67.2757
+Iteration 2: 50.0105
+Iteration 3: 47.7025
+Iteration 4: 47.1104
+Iteration 5: 46.8352
+Iteration 6: 46.7558
+Iteration 7: 46.6915
+Iteration 8: 46.6306
+Iteration 9: 46.5893
+
+Run 3
+-----
+Iteration 1: 74.3003
+Iteration 2: 58.907
+Iteration 3: 50.1981
+Iteration 4: 48.2701
+Iteration 5: 47.7523
+Iteration 6: 47.4994
+Iteration 7: 47.3816
+Iteration 8: 47.3258
+Iteration 9: 47.2665
+Iteration 10: 47.163
+Iteration 11: 47.0047
+Iteration 12: 46.8325
+Iteration 13: 46.67
+Iteration 14: 46.5337
+Iteration 15: 46.4795
+Iteration 16: 46.4648
+
+Run 4
+-----
+Iteration 1: 67.517
+Iteration 2: 54.4329
+Iteration 3: 51.701
+Iteration 4: 50.3569
+Iteration 5: 48.8626
+Iteration 6: 47.8351
+Iteration 7: 47.1795
+Iteration 8: 46.8078
+Iteration 9: 46.6514
+Iteration 10: 46.5831
+Iteration 11: 46.5334
+Iteration 12: 46.4835
+Iteration 13: 46.4426
+
+Run 5
+-----
+Iteration 1: 67.5161
+Iteration 2: 50.9393
+Iteration 3: 48.5506
+Iteration 4: 47.4524
+Iteration 5: 47.0377
+Iteration 6: 46.7868
+Iteration 7: 46.5471
+Iteration 8: 46.4263
+Iteration 9: 46.3811
+
+Min Max Normalization with Random Partition.
+
+Run 1
+-----
+Iteration 1: 105.212
+Iteration 2: 78.7837
+Iteration 3: 69.682
+Iteration 4: 67.528
+Iteration 5: 63.447
+Iteration 6: 60.8165
+Iteration 7: 59.6442
+Iteration 8: 59.1666
+Iteration 9: 58.9212
+Iteration 10: 58.7882
+Iteration 11: 58.7595
+
+Run 2
+-----
+Iteration 1: 97.8122
+Iteration 2: 80.8661
+Iteration 3: 70.2158
+Iteration 4: 68.6822
+Iteration 5: 67.9863
+Iteration 6: 67.5439
+Iteration 7: 67.3336
+Iteration 8: 67.1111
+Iteration 9: 66.9471
+Iteration 10: 66.854
+Iteration 11: 66.6938
+Iteration 12: 66.4246
+Iteration 13: 65.5921
+Iteration 14: 58.6171
+Iteration 15: 58.5959
+
+Run 3
+-----
+Iteration 1: 97.8789
+Iteration 2: 78.2314
+Iteration 3: 73.5355
+Iteration 4: 72.1724
+Iteration 5: 71.6272
+Iteration 6: 71.4229
+Iteration 7: 71.3096
+Iteration 8: 71.0911
+Iteration 9: 70.8375
+Iteration 10: 70.4449
+Iteration 11: 70.0466
+Iteration 12: 69.8586
+Iteration 13: 69.7149
+Iteration 14: 69.6054
+Iteration 15: 69.5163
+Iteration 16: 69.4397
+Iteration 17: 69.4062
+
+Run 4
+-----
+Iteration 1: 99.3817
+Iteration 2: 89.7392
+Iteration 3: 78.133
+Iteration 4: 73.3599
+Iteration 5: 70.8316
+Iteration 6: 69.3387
+Iteration 7: 68.6635
+Iteration 8: 68.2735
+Iteration 9: 67.971
+Iteration 10: 67.48
+Iteration 11: 67.1549
+Iteration 12: 66.8181
+Iteration 13: 66.2109
+Iteration 14: 60.9218
+Iteration 15: 58.9424
+Iteration 16: 58.9262
+
+Run 5
+-----
+Iteration 1: 103.288
+Iteration 2: 88.4962
+Iteration 3: 83.3833
+Iteration 4: 80.5241
+Iteration 5: 79.2159
+Iteration 6: 77.8787
+Iteration 7: 74.1765
+Iteration 8: 69.176
+Iteration 9: 69.1472
+
+z-score Normalization with Random Partition.
+
+Run 1
+-----
+Iteration 1: 8164.36
+Iteration 2: 6928.42
+Iteration 3: 4480.52
+Iteration 4: 4358.08
+Iteration 5: 4276.58
+Iteration 6: 4222.32
+Iteration 7: 4175.16
+Iteration 8: 4145.61
+Iteration 9: 4130.63
+Iteration 10: 4119
+Iteration 11: 4108.85
+Iteration 12: 4094.83
+Iteration 13: 4080.6
+Iteration 14: 4072.4
+Iteration 15: 4070.25
+
+Run 2
+-----
+Iteration 1: 7275.46
+Iteration 2: 4951.41
+Iteration 3: 4433.6
+Iteration 4: 4219.65
+Iteration 5: 4151.7
+Iteration 6: 4123.72
+Iteration 7: 4107.22
+Iteration 8: 4098.69
+Iteration 9: 4095.21
+
+Run 3
+-----
+Iteration 1: 6952.98
+Iteration 2: 5835.56
+Iteration 3: 5538.65
+Iteration 4: 4741.68
+Iteration 5: 4242.86
+Iteration 6: 4216.9
+Iteration 7: 4203.21
+Iteration 8: 4192.17
+Iteration 9: 4183.91
+Iteration 10: 4171.37
+Iteration 11: 4159.74
+Iteration 12: 4148.26
+Iteration 13: 4133.19
+Iteration 14: 4117.68
+Iteration 15: 4096.89
+Iteration 16: 4077.97
+Iteration 17: 4065.45
+Iteration 18: 4056.75
+Iteration 19: 4052.27
+Iteration 20: 4049.59
+
+Run 4
+-----
+Iteration 1: 7626.65
+Iteration 2: 6076.95
+Iteration 3: 5784.76
+Iteration 4: 5575.3
+Iteration 5: 4993.5
+Iteration 6: 4116.65
+Iteration 7: 4105.75
+Iteration 8: 4099.55
+Iteration 9: 4096.68
+
+Run 5
+-----
+Iteration 1: 6875.06
+Iteration 2: 5890.2
+Iteration 3: 5626.22
+Iteration 4: 5517.31
+Iteration 5: 5414.38
+Iteration 6: 5372.86
+Iteration 7: 5352.34
+Iteration 8: 5339.14
+Iteration 9: 5322.85
+Iteration 10: 5306.13
+Iteration 11: 5293.69
+Iteration 12: 5275.63
+Iteration 13: 5217.62
+Iteration 14: 4938.61
+Iteration 15: 4078.44
+Iteration 16: 4063.61
+Iteration 17: 4059.29
+Iteration 18: 4058.7
+
+No Normalization with Maximin.
+
+Run 1
+-----
+Iteration 1: 108.016
+Iteration 2: 98.7721
+Iteration 3: 90.8069
+Iteration 4: 79.3909
+Iteration 5: 67.5171
+Iteration 6: 63.4339
+Iteration 7: 60.575
+Iteration 8: 59.4558
+Iteration 9: 57.4072
+Iteration 10: 54.76
+Iteration 11: 53.97
+Iteration 12: 53.6649
+Iteration 13: 53.5284
+Iteration 14: 53.4612
+Iteration 15: 53.4215
+
+Run 2
+-----
+Iteration 1: 112.51
+Iteration 2: 104.884
+Iteration 3: 88.0263
+Iteration 4: 78.7232
+Iteration 5: 68.0228
+Iteration 6: 63.7312
+Iteration 7: 60.612
+Iteration 8: 59.4068
+Iteration 9: 57.5086
+Iteration 10: 55.5384
+Iteration 11: 54.328
+Iteration 12: 53.7342
+Iteration 13: 53.3399
+Iteration 14: 53.0462
+Iteration 15: 52.8501
+Iteration 16: 52.7216
+Iteration 17: 52.6582
+Iteration 18: 52.6287
+
+Run 3
+-----
+Iteration 1: 104.361
+Iteration 2: 99.3829
+Iteration 3: 87.2802
+Iteration 4: 80.0089
+Iteration 5: 69.0429
+Iteration 6: 64.1115
+Iteration 7: 60.5887
+Iteration 8: 59.3164
+Iteration 9: 57.503
+Iteration 10: 55.5299
+Iteration 11: 54.3204
+Iteration 12: 53.739
+Iteration 13: 53.3609
+Iteration 14: 53.1149
+Iteration 15: 52.9181
+Iteration 16: 52.7728
+Iteration 17: 52.6915
+Iteration 18: 52.642
+
+Run 4
+-----
+Iteration 1: 100.036
+Iteration 2: 98.4186
+Iteration 3: 90.2003
+Iteration 4: 85.4411
+Iteration 5: 77.2971
+Iteration 6: 66.9494
+Iteration 7: 61.3459
+Iteration 8: 58.3951
+Iteration 9: 56.1685
+Iteration 10: 55.1979
+Iteration 11: 54.2625
+Iteration 12: 53.7626
+Iteration 13: 53.4607
+Iteration 14: 53.2982
+Iteration 15: 53.2077
+Iteration 16: 53.1086
+Iteration 17: 53.0004
+Iteration 18: 52.9443
+Iteration 19: 52.8655
+Iteration 20: 52.7559
+Iteration 21: 52.6711
+Iteration 22: 52.4651
+Iteration 23: 52.3989
+Iteration 24: 52.3135
+Iteration 25: 52.1368
+Iteration 26: 51.7616
+Iteration 27: 48.0722
+Iteration 28: 46.5517
+Iteration 29: 46.4647
+Iteration 30: 46.4028
+Iteration 31: 46.3566
+
+Run 5
+-----
+Iteration 1: 105.847
+Iteration 2: 101.485
+Iteration 3: 94.6868
+Iteration 4: 87.9235
+Iteration 5: 72.9534
+Iteration 6: 64.3471
+Iteration 7: 60.8632
+Iteration 8: 59.5754
+Iteration 9: 57.3891
+Iteration 10: 55.3511
+Iteration 11: 54.2838
+Iteration 12: 53.719
+Iteration 13: 53.3138
+Iteration 14: 52.972
+Iteration 15: 52.7541
+Iteration 16: 52.6489
+Iteration 17: 52.5945
+Iteration 18: 52.5372
+Iteration 19: 52.4784
+Iteration 20: 52.4096
+Iteration 21: 52.3457
+Iteration 22: 52.3125
+
+Min Max Normalization with Maximin.
+
+Run 1
+-----
+Iteration 1: 138.631
+Iteration 2: 131.623
+Iteration 3: 121.938
+Iteration 4: 116.193
+Iteration 5: 106.38
+Iteration 6: 96.3342
+Iteration 7: 92.9692
+Iteration 8: 86.7446
+Iteration 9: 83.5794
+Iteration 10: 82.0272
+Iteration 11: 81.0154
+Iteration 12: 80.3431
+Iteration 13: 80.0553
+Iteration 14: 79.8787
+Iteration 15: 79.7889
+Iteration 16: 79.7183
+
+Run 2
+-----
+Iteration 1: 143.093
+Iteration 2: 135.586
+Iteration 3: 125.803
+Iteration 4: 115.188
+Iteration 5: 103.294
+Iteration 6: 93.4944
+Iteration 7: 87.5162
+Iteration 8: 84.1763
+Iteration 9: 82.1135
+Iteration 10: 80.8564
+Iteration 11: 80.0602
+Iteration 12: 79.4215
+Iteration 13: 79.0812
+Iteration 14: 78.7046
+Iteration 15: 78.3736
+Iteration 16: 78.1641
+Iteration 17: 77.9619
+Iteration 18: 77.6189
+Iteration 19: 76.3254
+Iteration 20: 69.8039
+Iteration 21: 69.744
+
+Run 3
+-----
+Iteration 1: 139.616
+Iteration 2: 134.05
+Iteration 3: 127.1
+Iteration 4: 114.572
+Iteration 5: 106.262
+Iteration 6: 99.4774
+Iteration 7: 90.2165
+Iteration 8: 85.2137
+Iteration 9: 82.1607
+Iteration 10: 80.8031
+Iteration 11: 80.3266
+Iteration 12: 80.1204
+Iteration 13: 79.9742
+Iteration 14: 79.7761
+Iteration 15: 79.6166
+Iteration 16: 79.4323
+Iteration 17: 79.2626
+Iteration 18: 79.0126
+Iteration 19: 78.7609
+Iteration 20: 78.5792
+Iteration 21: 78.3408
+Iteration 22: 77.9326
+Iteration 23: 75.1897
+Iteration 24: 70.0467
+Iteration 25: 69.95
+Iteration 26: 69.8825
+
+Run 4
+-----
+Iteration 1: 132.566
+Iteration 2: 130.3
+Iteration 3: 122.021
+Iteration 4: 116.079
+Iteration 5: 108.388
+Iteration 6: 97.9455
+Iteration 7: 88.9108
+Iteration 8: 85.3704
+Iteration 9: 81.6857
+Iteration 10: 79.637
+Iteration 11: 78.6985
+Iteration 12: 78.4407
+Iteration 13: 78.2692
+Iteration 14: 78.1426
+Iteration 15: 78.1097
+
+Run 5
+-----
+Iteration 1: 134.689
+Iteration 2: 130.74
+Iteration 3: 122.705
+Iteration 4: 117.674
+Iteration 5: 107.091
+Iteration 6: 98.7595
+Iteration 7: 90.0597
+Iteration 8: 86.152
+Iteration 9: 82.8545
+Iteration 10: 81.4663
+Iteration 11: 80.4449
+Iteration 12: 79.585
+Iteration 13: 79.0575
+Iteration 14: 78.7618
+Iteration 15: 78.5254
+Iteration 16: 78.2598
+Iteration 17: 78.1007
+Iteration 18: 78.0027
+Iteration 19: 77.8976
+Iteration 20: 77.7416
+Iteration 21: 77.3406
+Iteration 22: 75.2676
+Iteration 23: 69.6909
+Iteration 24: 69.6646
+
+z-score Normalization with Maximin.
+
+Run 1
+-----
+Iteration 1: 11100.2
+Iteration 2: 10397.1
+Iteration 3: 9757.48
+Iteration 4: 9395.52
+Iteration 5: 8695.61
+Iteration 6: 8188.97
+Iteration 7: 6228.49
+Iteration 8: 5868.56
+Iteration 9: 5657.89
+Iteration 10: 5419.4
+Iteration 11: 4145.39
+Iteration 12: 4092.97
+Iteration 13: 4084.77
+Iteration 14: 4082.49
+
+Run 2
+-----
+Iteration 1: 10870.1
+Iteration 2: 9823.64
+Iteration 3: 9407.74
+Iteration 4: 8614.98
+Iteration 5: 8147.14
+Iteration 6: 7722.9
+Iteration 7: 7253.31
+Iteration 8: 6882.54
+Iteration 9: 6701.81
+Iteration 10: 6618.42
+Iteration 11: 6145.09
+Iteration 12: 5390.86
+Iteration 13: 5376.39
+Iteration 14: 5361.27
+Iteration 15: 5350.34
+Iteration 16: 5340.79
+Iteration 17: 5335.72
+
+Run 3
+-----
+Iteration 1: 10723.7
+Iteration 2: 10097.2
+Iteration 3: 9109.59
+Iteration 4: 8420.96
+Iteration 5: 7934.32
+Iteration 6: 7667.09
+Iteration 7: 7243.1
+Iteration 8: 6965.53
+Iteration 9: 6707.35
+Iteration 10: 6594.5
+Iteration 11: 6453.5
+Iteration 12: 5988.31
+Iteration 13: 4305.5
+Iteration 14: 4097.46
+Iteration 15: 4087.2
+Iteration 16: 4078.98
+Iteration 17: 4074.23
+Iteration 18: 4070.82
+
+Run 4
+-----
+Iteration 1: 11167.4
+Iteration 2: 10793.8
+Iteration 3: 9770.24
+Iteration 4: 9026.96
+Iteration 5: 8359.12
+Iteration 6: 7535.54
+Iteration 7: 6533.46
+Iteration 8: 5738.96
+Iteration 9: 5546.72
+Iteration 10: 5491.71
+Iteration 11: 5473.16
+Iteration 12: 5458.27
+Iteration 13: 5450.33
+Iteration 14: 5438.8
+Iteration 15: 5428.68
+Iteration 16: 5427.19
+
+Run 5
+-----
+Iteration 1: 10508.7
+Iteration 2: 9813.23
+Iteration 3: 9471.59
+Iteration 4: 8788.54
+Iteration 5: 8191.75
+Iteration 6: 7579.37
+Iteration 7: 7131.85
+Iteration 8: 6878.3
+Iteration 9: 6688.1
+Iteration 10: 6404.85
+Iteration 11: 5428.69
+Iteration 12: 5413.09
+Iteration 13: 5398.82
+Iteration 14: 5384.46
+Iteration 15: 5358.15
+Iteration 16: 5344.31
+Iteration 17: 5332.62
+Iteration 18: 5321.99
+Iteration 19: 5320.16
+
